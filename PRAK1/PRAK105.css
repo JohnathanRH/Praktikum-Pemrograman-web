@@ -1,0 +1,14 @@
+table {
+    border: 1px solid black;
+}
+
+th {
+    background-color: red;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 25px;
+}
+
+th, td {
+    border: 1px solid black;
+}
